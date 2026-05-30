@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsconnect",
+        "uuid": 10892430,
+        "checksum": "ka6hhq"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
